@@ -1,0 +1,1 @@
+C:\Users\CEM\Desktop\FootballApi\FootballApi\FootballApi.csproj;x86
